@@ -4,8 +4,8 @@
 // ============================================================
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');        // Change to your MySQL username
-define('DB_PASS', '');            // Change to your MySQL password
+define('DB_USER', 'your MySQL username');
+define('DB_PASS', 'your MySQL password');
 define('DB_NAME', 'road_complaint_db');
 define('DB_CHARSET', 'utf8mb4');
 
