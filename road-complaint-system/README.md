@@ -155,7 +155,6 @@ http://localhost:8082/road-complaint-system/
 
 ```text
 Email: admin@roadcomplaint.in
-Password: Admin@123
 ```
 
 ### Staff
@@ -185,9 +184,5 @@ Email: user@roadcomplaint.in
 * Assignments
 * Attachments
 * User Preferences
-
----
-
-## 🎯 Academic Project
 
 ---
